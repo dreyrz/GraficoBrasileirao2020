@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.LineChart?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane maxHeight="800.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.SampleController">
+   <center>
+      <AnchorPane prefHeight="600.0" prefWidth="800.0" BorderPane.alignment="CENTER">
+         <children>
+            <LineChart fx:id="lineChart" layoutX="171.0" layoutY="2.0" prefHeight="600.0" prefWidth="700.0" title="Brasileirão 2020">
+              <xAxis>
+                <CategoryAxis fx:id="categoryAxis" animated="false" label="Rodadas" side="BOTTOM" />
+              </xAxis>
+              <yAxis>
+                <NumberAxis fx:id="numberAxis" animated="false" autoRanging="false" label="Posição" minorTickCount="1" prefHeight="514.0" prefWidth="44.0" side="LEFT" tickLabelsVisible="false" tickUnit="1.0" upperBound="21.0" />
+              </yAxis>
+               <padding>
+                  <Insets bottom="10.0" />
+               </padding>
+            </LineChart>
+            <ListView fx:id="teamsList" layoutX="14.0" onMouseClicked="#onMouseClickedLV" prefHeight="600.0" prefWidth="144.0" />
+         </children>
+      </AnchorPane>
+   </center>
+</BorderPane>

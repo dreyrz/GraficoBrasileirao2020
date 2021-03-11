@@ -1,0 +1,821 @@
+[
+{
+"rodada":1,
+ "tabela":[
+{
+name: "Sao Paulo"
+,
+position: 1
+},
+{
+name: "Athletico-PR"
+,position: 2
+},
+{
+name: "Sport"
+,position: 3
+},
+{
+name: "Bahia"
+,position: 4
+},
+{
+name: "Atletico-MG"
+,position: 5
+},
+{
+name: "Gremio"
+,position: 6
+},
+{
+name: "Internacional"
+,position: 7
+},
+{
+name: "Bragantino"
+,position: 8
+},
+{
+name: "Palmeiras"
+,position: 9
+},
+{
+name: "Santos"
+,position: 10
+},
+{
+name: "Vasco"
+,position: 11
+},
+{
+name: "Atletico-GO"
+,position: 12
+},
+{
+name: "Corinthians"
+,position: 13
+},
+{
+name: "Ceara"
+,position: 14
+},
+{
+name: "Botafogo"
+,position: 15
+},
+{
+name: "Coritiba"
+,position: 16
+},
+{
+name: "Flamengo"
+,position: 17
+},
+{
+name: "Fluminense"
+,position: 18
+},
+{
+name: "Fortaleza"
+,position: 19
+},
+{
+name: "Goias"
+,position: 20
+}]},
+{"rodada":2, "tabela":
+[
+{
+name: "Sao Paulo"
+,position: 1
+},
+{
+name: "Athletico-PR"
+,position: 2
+},
+{
+name: "Sport"
+,position: 9
+},
+{
+name: "Bahia"
+,position: 5
+},
+{
+name: "Atletico-MG"
+,position: 4
+},
+{
+name: "Gremio"
+,position: 8
+},
+{
+name: "Internacional"
+,position: 3
+},
+{
+name: "Bragantino"
+,position: 10
+},
+{
+name: "Palmeiras"
+,position: 11
+},
+{
+name: "Santos"
+,position: 16
+},
+{
+name: "Vasco"
+,position: 7
+},
+{
+name: "Atletico-GO"
+,position: 6
+},
+{
+name: "Corinthians"
+,position: 14
+},
+{
+name: "Ceara"
+,position: 12
+},
+{
+name: "Botafogo"
+,position: 13
+},
+{
+name: "Coritiba"
+,position: 17
+},
+{
+name: "Flamengo"
+,position: 20
+},
+{
+name: "Fluminense"
+,position: 15
+},
+{
+name: "Fortaleza"
+,position: 18
+},
+{
+name: "Goias"
+,position: 19
+}]},
+{
+"rodada":3, "tabela":
+[
+{
+name: "Sao Paulo"
+,position: 4
+
+},
+{
+name: "Athletico-PR"
+,position: 6
+},
+{
+name: "Sport"
+,position: 11
+},
+{
+name: "Bahia"
+,position: 2
+},
+{
+name: "Atletico-MG"
+,position: 1
+},
+{
+name: "Gremio"
+,position: 8
+},
+{
+name: "Internacional"
+,position: 5
+},
+{
+name: "Bragantino"
+,position: 14
+},
+{
+name: "Palmeiras"
+,position: 13
+},
+{
+name: "Santos"
+,position: 9
+},
+{
+name: "Vasco"
+,position: 3
+},
+{
+name: "Atletico-GO"
+,position: 7
+},
+{
+name: "Corinthians"
+,position: 16
+},
+{
+name: "Ceara"
+,position: 17
+},
+{
+name: "Botafogo"
+,position: 15
+},
+{
+name: "Coritiba"
+,position: 20
+},
+{
+name: "Flamengo"
+,position: 12
+},
+{
+name: "Fluminense"
+,position: 10
+},
+{
+name: "Fortaleza"
+,position: 18
+},
+{
+name: "Goias"
+,position: 19
+}]},
+{
+"rodada":4, "tabela":[
+{
+name: "Sao Paulo"
+,position: 5
+},
+{
+name: "Athletico-PR"
+,position: 7
+},
+{
+name: "Sport"
+,position: 16
+},
+{
+name: "Bahia"
+,position: 2
+},
+{
+name: "Atletico-MG"
+,position: 4
+},
+{
+name: "Gremio"
+,position: 9
+},
+{
+name: "Internacional"
+,position: 3
+},
+{
+name: "Bragantino"
+,position: 11
+},
+{
+name: "Palmeiras"
+,position: 8
+},
+{
+name: "Santos"
+,position: 6
+},
+{
+name: "Vasco"
+,position: 1
+},
+{
+name: "Atletico-GO"
+,position: 12
+},
+{
+name: "Corinthians"
+,position: 10
+},
+{
+name: "Ceara"
+,position: 18
+},
+{
+name: "Botafogo"
+,position: 13
+},
+{
+name: "Coritiba"
+,position: 20
+},
+{
+name: "Flamengo"
+,position: 17
+},
+{
+name: "Fluminense"
+,position: 14
+},
+{
+name: "Fortaleza"
+,position: 15
+},
+{
+name: "Goias"
+,position: 19
+}]},{
+"rodada":5,"tabela": [
+{
+name: "Sao Paulo"
+,position: 3
+},
+{
+name: "Athletico-PR"
+,position: 10
+},
+{
+name: "Sport"
+,position: 17
+},
+{
+name: "Bahia"
+,position: 4
+},
+{
+name: "Atletico-MG"
+,position: 5
+},
+{
+name: "Gremio"
+,position: 9
+},
+{
+name: "Internacional"
+,position: 1
+},
+{
+name: "Bragantino"
+,position: 13
+},
+{
+name: "Palmeiras"
+,position: 6
+},
+{
+name: "Santos"
+,position: 7
+},
+{
+name: "Vasco"
+,position: 2
+},
+{
+name: "Atletico-GO"
+,position: 15
+},
+{
+name: "Corinthians"
+,position: 11
+},
+{
+name: "Ceara"
+,position: 18
+},
+{
+name: "Botafogo"
+,position: 12
+},
+{
+name: "Coritiba"
+,position: 20
+},
+{
+name: "Flamengo"
+,position: 16
+},
+{
+name: "Fluminense"
+,position: 8
+},
+{
+name: "Fortaleza"
+,position: 14
+},
+{
+name: "Goias"
+,position: 19
+}]},
+{
+"rodada":6,"tabela": [
+{
+name: "Sao Paulo"
+,position: 2
+},
+{
+name: "Athletico-PR"
+,position: 8
+},
+{
+name: "Sport"
+,position: 19
+},
+{
+name: "Bahia"
+,position: 4
+},
+{
+name: "Atletico-MG"
+,position: 9
+},
+{
+name: "Gremio"
+,position: 7
+},
+{
+name: "Internacional"
+,position: 1
+},
+{
+name: "Bragantino"
+,position: 17
+},
+{
+name: "Palmeiras"
+,position: 6
+},
+{
+name: "Santos"
+,position: 12
+},
+{
+name: "Vasco"
+,position: 3
+},
+{
+name: "Atletico-GO"
+,position: 18
+},
+{
+name: "Corinthians"
+,position: 15
+},
+{
+name: "Ceara"
+,position: 13
+},
+{
+name: "Botafogo"
+,position: 16
+},
+{
+name: "Coritiba"
+,position: 14
+},
+{
+name: "Flamengo"
+,position: 11
+},
+{
+name: "Fluminense"
+,position: 5
+},
+{
+name: "Fortaleza"
+,position: 10
+},
+{
+name: "Goias"
+,position: 20
+}]},{
+"rodada":7,"tabela": [
+{
+name: "Sao Paulo"
+,position: 2
+},
+{
+name: "Athletico-PR"
+,position: 9
+},
+{
+name: "Sport"
+,position: 15
+},
+{
+name: "Bahia"
+,position: 7
+},
+{
+name: "Atletico-MG"
+,position: 3
+},
+{
+name: "Gremio"
+,position: 11
+},
+{
+name: "Internacional"
+,position: 1
+},
+{
+name: "Bragantino"
+,position: 18
+},
+{
+name: "Palmeiras"
+,position: 8
+},
+{
+name: "Santos"
+,position: 14
+},
+{
+name: "Vasco"
+,position: 4
+},
+{
+name: "Atletico-GO"
+,position: 19
+},
+{
+name: "Corinthians"
+,position: 12
+},
+{
+name: "Ceara"
+,position: 10
+},
+{
+name: "Botafogo"
+,position: 17
+},
+{
+name: "Coritiba"
+,position: 16
+},
+{
+name: "Flamengo"
+,position: 6
+},
+{
+name: "Fluminense"
+,position: 5
+},
+{
+name: "Fortaleza"
+,position: 13
+},
+{
+name: "Goias"
+,position: 20
+}]},{
+"rodada":8,"tabela": [
+{
+name: "Sao Paulo"
+,position: 2
+},
+{
+name: "Athletico-PR"
+,position: 11
+},
+{
+name: "Sport"
+,position: 13
+},
+{
+name: "Bahia"
+,position: 7
+},
+{
+name: "Atletico-MG"
+,position: 3
+},
+{
+name: "Gremio"
+,position: 10
+},
+{
+name: "Internacional"
+,position: 1
+},
+{
+name: "Bragantino"
+,position: 19
+},
+{
+name: "Palmeiras"
+,position: 6
+},
+{
+name: "Santos"
+,position: 8
+},
+{
+name: "Vasco"
+,position: 4
+},
+{
+name: "Atletico-GO"
+,position: 18
+},
+{
+name: "Corinthians"
+,position: 14
+},
+{
+name: "Ceara"
+,position: 12
+},
+{
+name: "Botafogo"
+,position: 16
+},
+{
+name: "Coritiba"
+,position: 17
+},
+{
+name: "Flamengo"
+,position: 5
+},
+{
+name: "Fluminense"
+,position: 9
+},
+{
+name: "Fortaleza"
+,position: 15
+},
+{
+name: "Goias"
+,position: 20
+}]},{
+"rodada":9,"tabela": [
+{
+name: "Sao Paulo"
+,position: 2
+},
+{
+name: "Athletico-PR"
+,position: 11
+},
+{
+name: "Sport"
+,position: 13
+},
+{
+name: "Bahia"
+,position: 9
+},
+{
+name: "Atletico-MG"
+,position: 5
+},
+{
+name: "Gremio"
+,position: 8
+},
+{
+name: "Internacional"
+,position: 1
+},
+{
+name: "Bragantino"
+,position: 19
+},
+{
+name: "Palmeiras"
+,position: 4
+},
+{
+name: "Santos"
+,position: 7
+},
+{
+name: "Vasco"
+,position: 6
+},
+{
+name: "Atletico-GO"
+,position: 16
+},
+{
+name: "Corinthians"
+,position: 15
+},
+{
+name: "Ceara"
+,position: 14
+},
+{
+name: "Botafogo"
+,position: 17
+},
+{
+name: "Coritiba"
+,position: 18
+},
+{
+name: "Flamengo"
+,position: 3
+},
+{
+name: "Fluminense"
+,position: 12
+},
+{
+name: "Fortaleza"
+,position: 10
+},
+{
+name: "Goias"
+,position: 20
+}]},{
+"rodada":10,"tabela": [
+{
+name: "Sao Paulo"
+,position: 4
+},
+{
+name: "Athletico-PR"
+,position: 9
+},
+{
+name: "Sport"
+,position: 15
+},
+{
+name: "Bahia"
+,position: 14
+},
+{
+name: "Atletico-MG"
+,position: 2
+},
+{
+name: "Gremio"
+,position: 8
+},
+{
+name: "Internacional"
+,position: 1
+},
+{
+name: "Bragantino"
+,position: 20
+},
+{
+name: "Palmeiras"
+,position: 5
+},
+{
+name: "Santos"
+,position: 7
+},
+{
+name: "Vasco"
+,position: 3
+},
+{
+name: "Atletico-GO"
+,position: 12
+},
+{
+name: "Corinthians"
+,position: 16
+},
+{
+name: "Ceara"
+,position: 11
+},
+{
+name: "Botafogo"
+,position: 17
+},
+{
+name: "Coritiba"
+,position: 18
+},
+{
+name: "Flamengo"
+,position: 6
+},
+{
+name: "Fluminense"
+,position: 10
+},
+{
+name: "Fortaleza"
+,position: 13
+},
+{
+name: "Goias"
+,position: 19
+}
+]}]
